@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "product-search": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "D:\\SB\\sqldatabase",
+        "run",
+        "sql_server.py"
+      ]
+    }
+  }
+}
